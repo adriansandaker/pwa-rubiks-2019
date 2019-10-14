@@ -1,3 +1,6 @@
+# Introduksjon
+
+Disse ressursene er for deg som er nyskjerrig på Progressive Web Apps (PWA), og som ønsker noen tips til hvordan du kommer i gang. Landskapet er i stadig endring, men vi har i denne listen forsøkt å inkludere et utvalg artikler og verktøy som kan bidra til å forenkle prosessen med læring og implementasjon av de sentrale elementene i en PWA.
 
 # Artikler og guider
 

@@ -15,6 +15,8 @@ Et knippe artikler og guider som gir dypere innsikt i hva en PWA er, samt enkelt
 
 [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)
 
+[A beginners guide to Web Push notifications using Service Workers](https://medium.com/izettle-engineering/beginners-guide-to-web-push-notifications-using-service-workers-cb3474a17679)
+
 # Verktøy
 
 Små verktøy og ressurser som forenkler prosessen med å sette opp en Progressive Web App.

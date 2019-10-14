@@ -27,6 +27,8 @@ Små verktøy og ressurser som forenkler prosessen med å sette opp en Progressi
 
 [Getting Started with Workbox](https://developers.google.com/web/tools/workbox/guides/get-started)
 
+[Lighthouse](https://developers.google.com/web/tools/lighthouse)
+
 # Diverse 
 
 Annet nyttig stoff for deg som vurderer å utvikle en PWA.

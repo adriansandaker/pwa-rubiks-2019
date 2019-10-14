@@ -19,7 +19,7 @@ Et knippe artikler og guider som gir dypere innsikt i hva en PWA er, samt enkelt
 
 # Verktøy
 
-Små verktøy og ressurser som forenkler prosessen med å sette opp en Progressive Web App.
+Verktøy og ressurser som forenkler prosessen med å sette opp en Progressive Web App.
 
 [App Manifest generator](https://app-manifest.firebaseapp.com/)
 
@@ -38,3 +38,5 @@ Annet nyttig stoff for deg som vurderer å utvikle en PWA.
 [Browser Compatibility](https://caniuse.com/)
 
 [PWA Inspirasjon / Showcase](https://appsco.pe/)
+
+[Google PWA Codelabs](https://codelabs.developers.google.com/dev-pwa-training/)

@@ -20,6 +20,8 @@ Et knippe artikler og guider som gir dypere innsikt i hva en PWA er, samt enkelt
 
 [A beginners guide to Web Push notifications using Service Workers](https://medium.com/izettle-engineering/beginners-guide-to-web-push-notifications-using-service-workers-cb3474a17679)
 
+[A one year PWA retrospective](https://medium.com/pinterest-engineering/a-one-year-pwa-retrospective-f4a2f4129e05)
+
 # Verktøy
 
 Verktøy og ressurser som forenkler prosessen med å sette opp en Progressive Web App.

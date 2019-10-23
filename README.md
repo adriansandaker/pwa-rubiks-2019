@@ -24,6 +24,8 @@ Et knippe artikler og guider som gir dypere innsikt i hva en PWA er, samt enkelt
 
 [PWAFire](https://pwafire.org/)
 
+[Google Progressive Web App Training (YouTube)](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
+
 # Verktøy
 
 Verktøy og ressurser som forenkler prosessen med å sette opp en Progressive Web App.

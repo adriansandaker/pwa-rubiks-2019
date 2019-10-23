@@ -22,6 +22,8 @@ Et knippe artikler og guider som gir dypere innsikt i hva en PWA er, samt enkelt
 
 [A one year PWA retrospective](https://medium.com/pinterest-engineering/a-one-year-pwa-retrospective-f4a2f4129e05)
 
+[PWAFire](https://pwafire.org/)
+
 # Verktøy
 
 Verktøy og ressurser som forenkler prosessen med å sette opp en Progressive Web App.

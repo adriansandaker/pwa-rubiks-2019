@@ -28,6 +28,8 @@ Et knippe artikler og guider som gir dypere innsikt i hva en PWA er, samt enkelt
 
 [Google PWA Case Studies](https://sites.google.com/view/progressivewebapps/case-studies)
 
+[iOS 13 & iPadOS for PWA](https://medium.com/@firt/iphone-11-ipados-and-ios-13-for-pwas-and-web-development-5d5d9071cc49)
+
 # Verktøy
 
 Verktøy og ressurser som forenkler prosessen med å sette opp en Progressive Web App.

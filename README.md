@@ -42,6 +42,8 @@ Verktøy og ressurser som forenkler prosessen med å sette opp en Progressive We
 
 [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
+[Workarounds for enkelte bugs i ulike browsere](https://github.com/PWA-POLICE/pwa-bugs)
+
 # Diverse 
 
 Annet nyttig stoff for deg som vurderer å utvikle en PWA.

@@ -44,6 +44,8 @@ Verktøy og ressurser som forenkler prosessen med å sette opp en Progressive We
 
 [Workarounds for enkelte bugs i ulike browsere](https://github.com/PWA-POLICE/pwa-bugs)
 
+[Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
+
 # Diverse 
 
 Annet nyttig stoff for deg som vurderer å utvikle en PWA.

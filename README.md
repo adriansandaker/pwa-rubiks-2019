@@ -54,6 +54,8 @@ Annet nyttig stoff for deg som vurderer å utvikle en PWA.
 
 [Browser Compatibility](https://caniuse.com/)
 
-[PWA Inspirasjon / Showcase](https://appsco.pe/)
+[Appscope (Inspirasjon / Showcase)](https://appsco.pe/)
+
+[PWA.rocks (Inspirasjon / Showcase)](https://pwa.rocks/)
 
 [Google PWA Codelabs](https://codelabs.developers.google.com/dev-pwa-training/)
